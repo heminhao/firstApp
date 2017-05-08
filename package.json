@@ -24,7 +24,8 @@
     "sails-disk": "~0.10.9",
     "sails-generate-static": "^0.11.3",
     "sails-mysql": "^0.11.5",
-    "the-ultimate-question": "^1.3.0"
+    "the-ultimate-question": "^1.3.0",
+    "weui": "^1.1.2"
   },
   "scripts": {
     "debug": "node debug app.js",
